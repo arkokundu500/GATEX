@@ -6,7 +6,7 @@
 <ol>Open on VS Code or any other code editor.</ol>
 <ol>Open the terminal and type <code>cd backend</code></ol>
 <ol>and then type <code>npm start</code></ol>
-<ol>Open another terminal and type <code>cd frontend<code></ol>
+<ol>Open another terminal and type <code>cd frontend</code></ol>
 <ol>and then type <code>npm run dev</code></ol>
 </h3>
 <br>
