@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "6691533b9c9b8be10d7acbee",
+      "name": "Dr. Rajesh Aggarwal",
+      "email": "rajeshsir@gmail.com",
+      "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJREWu6wmpe6lhZAMcQUWk77DU2RIVQ5M8aTi1Vdwag=s96-c",
+      "role": "instructor",
+      "gender": "Is not specified",
+      "address": "Is not Provided",
+      "phone": "Is not Provide",
+      "about": "",
+      "skills": null
+    },
+    {
+      "_id": "6691533b9c9b8be10d7acbef",
+      "name": "Reshmni Singh",
+      "email": "rsece@gmail.com",
+      "photoUrl": "https://randomuser.me/api/portraits/women/17.jpg",
+      "gender": "female",
+      "address": "West Bengal",
+      "role": "instructor",
+      "phone": "0134567894",
+      "about": "",
+      "skills": null
+    }
+  ]
